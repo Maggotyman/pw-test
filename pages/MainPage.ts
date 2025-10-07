@@ -13,4 +13,5 @@ export class MainPage {
     await this.page.goto(`https://coffee-cart.app`);
     return this;
   }
+
 } 
